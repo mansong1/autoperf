@@ -1,0 +1,5 @@
+FROM mansong/jmbase
+LABEL maintainer="Martin Ansong"
+
+# Ports to be exposed for Jmeter Master
+EXPOSE 60000
